@@ -1,5 +1,5 @@
 # Title
-Tutorial link
+Tutorial or inspiration link
 
 ## Purpose
 1.
