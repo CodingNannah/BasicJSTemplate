@@ -10,3 +10,6 @@ Tutorial or inspiration link
 ## Future project expansion ideas
 1.
 
+### NOTES
+1. basic html file can also generally be called main.html
+2. basic js file can also generally be called index.js
